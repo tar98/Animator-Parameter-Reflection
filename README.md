@@ -57,4 +57,9 @@ You now click the Button **'Reflection'** and it will open a Save Dialog Panel, 
 
 ![MediaImage](Media/Reflection.gif)
 
+### File
+
+This is the Generate File at the end of the Reflection.
+
+![MediaImage](Media/ReflectionFile.jpg)
  
