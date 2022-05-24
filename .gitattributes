@@ -1,0 +1,2 @@
+Media/*.gif filter=lfs diff=lfs merge=lfs -bin
+Media/*.jpg filter=lfs diff=lfs merge=lfs -bin
