@@ -1,0 +1,16 @@
+﻿{
+  "name": "com.tar98.animator-parameter-reflection",
+  "version": "1.0",
+  "displayName": "Animator Parameter Reflection Tool",
+  "description": "A Unity Editor Tool that creates a C# script using Reflection with as input a list of Animator Controllers.",
+  "unity": "6000.0",
+  "keywords": [
+    "animator",
+    "reflection",
+    "tool"
+  ],
+  "author": {
+    "name": "tar98",
+    "url": "https://github.com/tar98"
+  }
+}
